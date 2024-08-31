@@ -1,0 +1,12 @@
+.cost-date {
+  color: #999;
+  font-size: 14px;
+  font-weight: 600;
+  margin-right: 16px;
+}
+
+.cost-date__day {
+  color: #ff3300;
+  font-weight: bold;
+  font-size: 26px;
+}

@@ -1,0 +1,24 @@
+.costs-filter {
+  font-size: 20px;
+}
+
+.costs-filter__control {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.costs-filter label {
+  color: #ff3300;
+  font-weight: 700;
+}
+
+.costs-filter select {
+  font: inherit;
+  padding: 10px 40px;
+  font-weight: bold;
+  border-radius: 6px;
+}
